@@ -1,0 +1,31 @@
+.promotion{
+    padding: 30px 0px;
+}
+.promotion h2 {
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.promotion p {
+   line-height: 2em;
+}
+div.promotion img{
+    width: 262.5px;
+    height: 262.5px;
+}
+.promotion a:hover{
+    text-decoration: underline;
+}
+.promotion a{
+    color: #0e5cd1;
+    font-style: italic;
+    font-size: 15px;
+    padding-left: 10px;
+}
+h2 span{
+    font-size: 20px;
+    padding-left: 30px;
+    color: red;
+    font-style: italic;
+    text-transform: capitalize;
+}

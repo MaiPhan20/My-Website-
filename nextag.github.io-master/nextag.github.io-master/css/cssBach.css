@@ -1,0 +1,108 @@
+#Pink{
+    color: #F57873;
+}
+#lightBlue{
+    color: #40768E;
+}
+#milkWhite{
+    color: #E0DCD1;
+}
+#Black{
+    color: black;
+}
+#lightGreen{
+    color: #73B1AE;
+}
+#darkGreen{
+    color: #50614F;
+}
+#darkRed{
+    color: #843439;
+}
+#brown{
+    color: #957659;
+}
+.title{
+    font-family: Cairo, sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+}
+.compareimg img{
+    width: 260px;
+    height: auto;
+}
+.compareimg{
+    text-align: center;
+}
+i.fa-heart{
+    opacity: 0.1;
+    font-size: 20px;
+    cursor: pointer;
+}
+div.body{
+    padding: 0 110px;
+    margin: 20px 0 50px;
+    font-size: 1.2em;
+    font-family: Cairo, sans-serif;
+}
+
+.compareimg p{
+    color: black;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-size: 20px;
+}
+div.col-md-2{
+    border-right: 1px solid #e5e5e5;
+}
+div.col-md-5{
+    border-right: 1px solid #e5e5e5;
+}
+svg.bi-x{
+    position: absolute;
+    top: 0;
+    right: 60px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.compareimg button{
+    width: 50%;
+    background-color: #f7f7f7;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-right: 20px;
+    height: 35px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.compareimg button:hover{
+    background-color: black;
+    color: white;
+}
+
+.spacediv div{
+    padding: 10px 10px;
+}
+.spacediv svg{
+    margin-right: 5px;
+    font-size: 20px;
+}
+.row1{
+    border-bottom: 1px solid #e5e5e5;
+}
+div.menu{
+    font-size: 17px;
+    padding-left: 40px;
+}
+.h2{
+    font-weight: 500;
+}
+@media only screen and (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
